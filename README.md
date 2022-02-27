@@ -6,6 +6,7 @@
 
 - [Projects](#projects)
 - [Documentation](#documentation)
+- [Resources](#resources)
 
 ## Projects
 * [initramfs-tools](https://salsa.debian.org/kernel-team/initramfs-tools) - Debian
@@ -30,3 +31,6 @@
 * [arch](https://wiki.archlinux.org/title/Arch_boot_process#initramfs)
 * [gentoo](https://wiki.gentoo.org/wiki/Initramfs/Guide)
 * [fedora](https://fedoraproject.org/wiki/Dracut)
+
+## Resources
+* [Linux initramfs for fun](https://www.youtube.com/watch?v=KQjRnuwb7is)
