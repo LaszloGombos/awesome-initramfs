@@ -5,6 +5,7 @@
 ## Contents
 
 - [Projects](#projects)
+- [Documentation](#documentation)
 
 ## Projects
 * [initramfs-tools](https://salsa.debian.org/kernel-team/initramfs-tools) - Debian
@@ -20,3 +21,12 @@
 * [core-initrd](https://github.com/snapcore/core-initrd) - Ubuntu Core Linux
 * [jamdisk](https://github.com/cbdevnet/jamdisk)
 * [micro-rootfs](https://github.com/loicpoulain/micro-rootfs) - buildroot
+
+## Documentation
+* [linux kernel](https://www.kernel.org/doc/html/latest/filesystems/ramfs-rootfs-initramfs.html)
+* [wikipedia](https://en.wikipedia.org/wiki/Initial_ramdisk)
+* [debian](https://wiki.debian.org/initramfs)
+* [ubuntu](https://wiki.ubuntu.com/Initramfs)
+* [arch](https://wiki.archlinux.org/title/Arch_boot_process#initramfs)
+* [gentoo](https://wiki.gentoo.org/wiki/Initramfs/Guide)
+* [fedora](https://fedoraproject.org/wiki/Dracut)
