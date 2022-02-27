@@ -15,3 +15,8 @@
 * [booster](https://github.com/anatol/booster)
 * [tiny-initramfs](https://github.com/chris-se/tiny-initramfs)
 * [tinyramfs](https://github.com/illiliti/tinyramfs)
+* [make-initrd](https://github.com/osboot/make-initrd)
+* [clr-init](https://github.com/clearlinux/clr-init)
+* [core-initrd](https://github.com/snapcore/core-initrd)
+* [jamdisk](https://github.com/cbdevnet/jamdisk)
+* [micro-rootfs](https://github.com/loicpoulain/micro-rootfs)
