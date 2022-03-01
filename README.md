@@ -24,6 +24,7 @@
 * [micro-rootfs](https://github.com/loicpoulain/micro-rootfs) - buildroot
 * [tinycorelinux](https://github.com/tinycorelinux/Core-scripts) - initramfs distro (no switch_root)
 * [mkroot/toybox](https://github.com/landley/toybox/blob/master/scripts/mkroot.sh) - minimal initramfs distro
+* [cloud-initramfs-tools](https://launchpad.net/cloud-initramfs-tools/) - initramfs-tools extra modules
 
 ## Documentation
 * [linux kernel](https://www.kernel.org/doc/html/latest/filesystems/ramfs-rootfs-initramfs.html)
