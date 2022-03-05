@@ -27,6 +27,7 @@
 * [cloud-initramfs-tools](https://launchpad.net/cloud-initramfs-tools/) - initramfs-tools extra modules
 * [mxlinux](https://github.com/MX-Linux/build-iso-mx/tree/master/Template/COMMON/initrd) - MX Linux
 * [linux-live](https://github.com/Tomas-M/linux-live)
+* [mkinitfs](https://gitlab.alpinelinux.org/alpine/mkinitfs/) - Alpine Linux
 
 ## Documentation
 * [linux kernel](https://www.kernel.org/doc/html/latest/filesystems/ramfs-rootfs-initramfs.html)
