@@ -31,6 +31,7 @@
 * [tinyroot](https://github.com/troglobit/tinyroot) - Tinyroot
 * [lfs](https://www.linuxfromscratch.org/blfs/view/svn/postlfs/initramfs.html) - Linux from scratch
 * [JamiKettunen](https://github.com/JamiKettunen/initramfs-tools)
+* [AltLinux](https://github.com/osboot/make-initrd)
 
 ## Documentation
 * [linux kernel](https://www.kernel.org/doc/html/latest/filesystems/ramfs-rootfs-initramfs.html)
