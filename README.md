@@ -22,7 +22,7 @@
 * [core-initrd](https://github.com/snapcore/core-initrd) - Ubuntu Core Linux
 * [jamdisk](https://github.com/cbdevnet/jamdisk)
 * [micro-rootfs](https://github.com/loicpoulain/micro-rootfs) - buildroot
-* [tinycorelinux](https://github.com/tinycorelinux/Core-scripts) - initramfs distro (no switch_root)
+* [tinycorelinux](https://github.com/tinycorelinux/Core-scripts/blob/master/init) - initramfs distro (no switch_root)
 * [mkroot/toybox](https://github.com/landley/toybox/blob/master/scripts/mkroot.sh) - minimal initramfs distro
 * [cloud-initramfs-tools](https://launchpad.net/cloud-initramfs-tools/) - initramfs-tools extra modules
 * [mxlinux](https://github.com/MX-Linux/build-iso-mx/tree/master/Template/COMMON/initrd) - MX Linux
