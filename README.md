@@ -40,6 +40,7 @@
 * [arch](https://wiki.archlinux.org/title/Arch_boot_process#initramfs)
 * [gentoo](https://wiki.gentoo.org/wiki/Initramfs/Guide)
 * [fedora](https://fedoraproject.org/wiki/Dracut)
+* [postmarketos](https://wiki.postmarketos.org/wiki/The_initramfs)
 
 ## Minimal rootfs
 * [micro-rootfs](https://github.com/loicpoulain/micro-rootfs)  - mdev
