@@ -41,5 +41,8 @@
 * [gentoo](https://wiki.gentoo.org/wiki/Initramfs/Guide)
 * [fedora](https://fedoraproject.org/wiki/Dracut)
 
+## Minimal rootfs
+* [micro-rootfs](https://github.com/loicpoulain/micro-rootfs)  - mdev
+
 ## Resources
 * [Linux initramfs for fun](https://www.youtube.com/watch?v=KQjRnuwb7is)
