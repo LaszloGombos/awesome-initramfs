@@ -10,7 +10,7 @@
 
 ## Projects
 * [dracut](https://github.com/dracutdevs/dracut) - Fedora, Debian, Arch, Alpine
-* [AltLinux](https://github.com/osboot/make-initrd) - AltLinux, Fedora, Ubuntu
+* [make-initrd](https://github.com/osboot/make-initrd) - AltLinux, Fedora, Ubuntu
 * [initramfs-tools](https://salsa.debian.org/kernel-team/initramfs-tools) - Debian
 * [mkinitcpio](https://github.com/archlinux/mkinitcpio) - Arch
 * [mkinitfs](https://gitlab.alpinelinux.org/alpine/mkinitfs/) - Alpine
