@@ -29,7 +29,7 @@
 * [mxlinux](https://github.com/MX-Linux/build-iso-mx/tree/master/Template/COMMON/initrd) - MX Linux
 * [linux-live](https://github.com/Tomas-M/linux-live)
 * [tinyroot](https://github.com/troglobit/tinyroot) - Tinyroot
-* [lfs](https://www.linuxfromscratch.org/blfs/view/svn/postlfs/initramfs.html) - Linux from scratch
+* [mkinitramfs](https://www.linuxfromscratch.org/blfs/view/svn/postlfs/initramfs.html) - Linux from scratch
 * [JamiKettunen](https://github.com/JamiKettunen/initramfs-tools)
 * [Postmarketos-mkinitfs](https://gitlab.com/postmarketOS/pmaports/-/tree/master/main/postmarketos-mkinitfs)
 
