@@ -48,3 +48,4 @@
 
 ## Resources
 * [Linux initramfs for fun](https://www.youtube.com/watch?v=KQjRnuwb7is)
+* [How to use initramfs](https://landley.net/writing/rootfs-howto.html)
