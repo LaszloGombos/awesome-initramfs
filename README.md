@@ -32,6 +32,7 @@
 * [mkinitramfs](https://www.linuxfromscratch.org/blfs/view/svn/postlfs/initramfs.html) - Linux from scratch
 * [JamiKettunen](https://github.com/JamiKettunen/initramfs-tools)
 * [Postmarketos-mkinitfs](https://gitlab.com/postmarketOS/pmaports/-/tree/master/main/postmarketos-mkinitfs)
+* [Yocto](https://github.com/yoctoproject/poky/tree/master/meta/recipes-core/initrdscripts)
 
 ## Documentation
 * [linux kernel](https://www.kernel.org/doc/html/latest/filesystems/ramfs-rootfs-initramfs.html)
