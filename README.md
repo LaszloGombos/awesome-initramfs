@@ -80,6 +80,10 @@
  * [iguana](https://github.com/openSUSE/iguana/tree/main/dracut-iguana)
  * [kairos-io](https://github.com/kairos-io/packages/tree/main/packages/system/dracut/immutable-rootfs/30cos-immutable-rootfs)
  * [KaOS](https://github.com/KaOSx/core/blob/master/dracut)
+ 
+ # OSS search
+ * [dracut on Github](https://github.com/topics/dracut)
+ * [dracut-module on Github](https://github.com/topics/dracut-module)
 
 # Other notable projects using dracut
  * [livecd-tools](https://github.com/livecd-tools/livecd-tools)
