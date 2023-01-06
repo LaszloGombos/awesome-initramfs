@@ -80,19 +80,20 @@
  * [iguana](https://github.com/openSUSE/iguana/tree/main/dracut-iguana)
  * [kairos-io](https://github.com/kairos-io/packages/tree/main/packages/system/dracut/immutable-rootfs/30cos-immutable-rootfs)
  * [KaOS](https://github.com/KaOSx/core/blob/master/dracut)
+ * [cloud-initramfs-tools](https://github.com/larsks/cloud-initramfs-tools/tree/master/growroot/dracut/modules.d/50growroot)
+ * [zfsbootmenu](https://github.com/zbm-dev/zfsbootmenu/tree/master/dracut)
  
  # OSS search
  * [dracut on Github](https://github.com/topics/dracut)
  * [dracut-module on Github](https://github.com/topics/dracut-module)
 
-# Other notable projects using dracut
+# Other notable projects using dracut (without an out-of-tree dracut modules)
  * [livecd-tools](https://github.com/livecd-tools/livecd-tools)
  * [lorax](https://github.com/weldr/lorax)
  * [mkosi](https://github.com/systemd/mkosi)
  * [rear](https://github.com/rear/rear)
  * [calamares](https://github.com/calamares/calamares)
  * [voidvault](https://github.com/atweiden/voidvault)
- * [zfsbootmenu](https://github.com/zbm-dev/zfsbootmenu)
 
 ## Resources
 * [Linux initramfs for fun](https://www.youtube.com/watch?v=KQjRnuwb7is)
