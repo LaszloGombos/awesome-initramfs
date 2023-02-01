@@ -82,6 +82,7 @@
  * [KaOS](https://github.com/KaOSx/core/blob/master/dracut)
  * [cloud-initramfs-tools](https://github.com/larsks/cloud-initramfs-tools/tree/master/growroot/dracut/modules.d/50growroot)
  * [zfsbootmenu](https://github.com/zbm-dev/zfsbootmenu/tree/master/dracut)
+ * [gardenlinux-live](https://github.com/gardenlinux/gardenlinux/tree/main/features/_pxe/file.include/usr/lib/dracut/modules.d/98gardenlinux-live)
  
  # OSS search
  * [dracut on Github](https://github.com/topics/dracut)
