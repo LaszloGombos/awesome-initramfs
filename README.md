@@ -17,6 +17,7 @@
 * [u-root](https://github.com/u-root/u-root) - Golang
 * [better-initramfs](https://github.com/slashbeast/better-initramfs) - Bash shell
 * [booster](https://github.com/anatol/booster) - Golang
+* [genkernel](https://gitweb.gentoo.org/proj/genkernel.git) - Gentoo
 * [tiny-initramfs](https://github.com/chris-se/tiny-initramfs)
 * [tinyramfs](https://github.com/illiliti/tinyramfs) - POSIX shell
 * [clr-init](https://github.com/clearlinux/clr-init) - Clear Linux
