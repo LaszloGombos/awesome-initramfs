@@ -17,6 +17,7 @@
 * [booster](https://github.com/anatol/booster) - Golang
 * [genkernel](https://gitweb.gentoo.org/proj/genkernel.git) - Gentoo
 * [u-root](https://github.com/u-root/u-root) - Golang
+* [mkosi-initrd](https://github.com/systemd/mkosi-initrd) - use system packages
 * [gen_initramfs](https://github.com/torvalds/linux/blob/master/usr/gen_initramfs.sh)
 * [better-initramfs](https://github.com/slashbeast/better-initramfs) - Bash shell
 * [tiny-initramfs](https://github.com/chris-se/tiny-initramfs)
