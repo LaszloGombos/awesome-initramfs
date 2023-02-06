@@ -10,14 +10,14 @@
 
 ## Projects
 * [dracut](https://github.com/dracutdevs/dracut) - Fedora, Debian, Arch, Alpine
-* [make-initrd](https://github.com/osboot/make-initrd) - AltLinux, Fedora, Ubuntu
-* [initramfs-tools](https://salsa.debian.org/kernel-team/initramfs-tools) - Debian
 * [mkinitcpio](https://github.com/archlinux/mkinitcpio) - Arch
+* [initramfs-tools](https://salsa.debian.org/kernel-team/initramfs-tools) - Debian
+* [make-initrd](https://github.com/osboot/make-initrd) - AltLinux
 * [mkinitfs](https://gitlab.alpinelinux.org/alpine/mkinitfs/) - Alpine
-* [u-root](https://github.com/u-root/u-root) - Golang
-* [better-initramfs](https://github.com/slashbeast/better-initramfs) - Bash shell
 * [booster](https://github.com/anatol/booster) - Golang
 * [genkernel](https://gitweb.gentoo.org/proj/genkernel.git) - Gentoo
+* [u-root](https://github.com/u-root/u-root) - Golang
+* [better-initramfs](https://github.com/slashbeast/better-initramfs) - Bash shell
 * [tiny-initramfs](https://github.com/chris-se/tiny-initramfs)
 * [tinyramfs](https://github.com/illiliti/tinyramfs) - POSIX shell
 * [clr-init](https://github.com/clearlinux/clr-init) - Clear Linux
