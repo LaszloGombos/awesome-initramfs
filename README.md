@@ -14,6 +14,7 @@
 * [initramfs-tools](https://salsa.debian.org/kernel-team/initramfs-tools) - Debian
 * [make-initrd](https://github.com/osboot/make-initrd) - AltLinux
 * [mkinitfs](https://gitlab.alpinelinux.org/alpine/mkinitfs/) - Alpine
+* [Minimal Builder Using Terse Options](https://mbuto.sh/mbuto) - Host-agnostic initramfs image builder for lightweight virtual machines
 * [booster](https://github.com/anatol/booster) - Golang
 * [genkernel](https://gitweb.gentoo.org/proj/genkernel.git) - Gentoo
 * [u-root](https://github.com/u-root/u-root) - Golang
