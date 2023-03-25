@@ -83,6 +83,7 @@
  * [constellation](https://github.com/edgelesssys/constellation/tree/main/image/mkosi.skeleton/usr/lib/dracut/modules.d)
  * [iguana](https://github.com/openSUSE/iguana/tree/main/dracut-iguana)
  * [kairos-io](https://github.com/kairos-io/packages/tree/main/packages/system/dracut/immutable-rootfs/30cos-immutable-rootfs)
+ * [immucore](https://github.com/kairos-io/immucore)
  * [KaOS](https://github.com/KaOSx/core/blob/master/dracut)
  * [cloud-initramfs-tools](https://github.com/larsks/cloud-initramfs-tools/tree/master/growroot/dracut/modules.d/50growroot)
  * [zfsbootmenu](https://github.com/zbm-dev/zfsbootmenu/tree/master/dracut)
