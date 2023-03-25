@@ -21,7 +21,7 @@
 * [mkosi-initrd](https://github.com/systemd/mkosi-initrd) - use system packages
 * [gen_initramfs](https://github.com/torvalds/linux/blob/master/usr/gen_initramfs.sh)
 * [better-initramfs](https://github.com/slashbeast/better-initramfs) - Bash shell
-* [tiny-initramfs](https://github.com/chris-se/tiny-initramfs)
+* [tiny-initramfs](https://github.com/chris-se/tiny-initramfs) - C, works great
 * [tinyramfs](https://github.com/illiliti/tinyramfs) - POSIX shell
 * [clr-init](https://github.com/clearlinux/clr-init) - Clear Linux
 * [core-initrd](https://github.com/snapcore/core-initrd) - Ubuntu Core Linux
