@@ -89,7 +89,8 @@
  * [zfsbootmenu](https://github.com/zbm-dev/zfsbootmenu/tree/master/dracut)
  * [gardenlinux-live](https://github.com/gardenlinux/gardenlinux/tree/main/features/_pxe/file.include/usr/lib/dracut/modules.d/98gardenlinux-live)
  * [hrmpf](https://github.com/leahneukirchen/hrmpf/tree/master/dracut)
- * [Cray-HPE](https://github.com/Cray-HPE/dracut-metal-dmk8s/tree/main/93metaldmk8s)
+ * [Cray-HPE/metal-dmk8s](https://github.com/Cray-HPE/dracut-metal-dmk8s/tree/main/93metaldmk8s)
+ * [Cray-HPE/metal-mdsquash](https://github.com/Cray-HPE/dracut-metal-mdsquash)
  * [AsahiLinux](https://github.com/AsahiLinux/asahi-scripts/tree/main/dracut)
  
  # OSS search
