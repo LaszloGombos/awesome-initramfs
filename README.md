@@ -20,7 +20,7 @@
 * [u-root](https://github.com/u-root/u-root) - Golang
 * [mkosi-initrd](https://github.com/systemd/mkosi-initrd) - use system packages
 * [gen_initramfs](https://github.com/torvalds/linux/blob/master/usr/gen_initramfs.sh)
-* [better-initramfs](https://github.com/slashbeast/better-initramfs) - Bash shell
+* [better-initramfs](https://github.com/slashbeast/better-initramfs) - Bash shell, busybox
 * [tiny-initramfs](https://github.com/chris-se/tiny-initramfs) - C, works great
 * [tinyramfs](https://github.com/illiliti/tinyramfs) - POSIX shell
 * [clr-init](https://github.com/clearlinux/clr-init) - Clear Linux
