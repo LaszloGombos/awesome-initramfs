@@ -72,6 +72,7 @@
  * [CBL-Mariner](https://github.com/microsoft/CBL-Mariner/tree/2.0/SPECS/dracut)
  * [distri](https://github.com/distr1/distri/tree/master/pkgs/dracut)
  * [Nix](https://github.com/NixOS/nixpkgs/tree/master/pkgs/os-specific/linux/dracut)
+ * [Solus](https://dev.getsol.us/source/dracut/)
 
 # Projects with out-of-tree dracut modules
  * [brltty](https://github.com/brltty/brltty/tree/master/Initramfs/Dracut)
