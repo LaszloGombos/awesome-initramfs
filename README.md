@@ -75,6 +75,7 @@
  * [Solus](https://dev.getsol.us/source/dracut/)
  * [Slack](https://git.slackbuilds.org/slackbuilds/tree/system/dracut)
  * [pld](https://git.pld-linux.org/?p=packages/dracut.git;a=tree)
+ * [OpenMandriva](https://github.com/OpenMandrivaAssociation/dracut)
 
 # Projects with out-of-tree dracut modules
  * [brltty](https://github.com/brltty/brltty/tree/master/Initramfs/Dracut)
