@@ -77,6 +77,8 @@
  * [pld](https://git.pld-linux.org/?p=packages/dracut.git;a=tree)
  * [OpenMandriva](https://github.com/OpenMandrivaAssociation/dracut)
  * [Arch](https://gitlab.archlinux.org/archlinux/packaging/packages/dracut)
+ * [AOSC](https://github.com/AOSC-Dev/aosc-os-abbs/tree/stable/app-admin/dracut)
+ * [altlinux](https://github.com/altlinux/specs/tree/sisyphus/d/dracut)
 
 # Projects with out-of-tree dracut modules
  * [brltty](https://github.com/brltty/brltty/tree/master/Initramfs/Dracut)
