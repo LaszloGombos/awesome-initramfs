@@ -73,6 +73,7 @@
  * [distri](https://github.com/distr1/distri/tree/master/pkgs/dracut)
  * [Nix](https://github.com/NixOS/nixpkgs/tree/master/pkgs/os-specific/linux/dracut)
  * [Solus](https://dev.getsol.us/source/dracut/)
+ * [Slack](https://git.slackbuilds.org/slackbuilds/tree/system/dracut)
 
 # Projects with out-of-tree dracut modules
  * [brltty](https://github.com/brltty/brltty/tree/master/Initramfs/Dracut)
