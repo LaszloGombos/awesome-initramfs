@@ -60,6 +60,16 @@
  * [DracutNotes](https://wwoods.fedorapeople.org/doc/dracut-notes.html)
  * [Repology](https://repology.org/project/dracut)
 
+# Notable Dracut forks
+ * [openSUSE](https://github.com/openSUSE/dracut)
+ * [Debian](https://salsa.debian.org/debian/dracut)
+ * [Fedora](https://src.fedoraproject.org/rpms/dracut)
+
+# Notable Dracut packages/patches
+ * [Gentoo](https://github.com/gentoo/gentoo/blob/master/sys-kernel/dracut)
+ * [Void](https://github.com/void-linux/void-packages/tree/master/srcpkgs/dracut)
+ * [Alpine](https://gitlab.alpinelinux.org/alpine/aports/-/tree/master/community/dracut)
+
 # Projects with out-of-tree dracut modules
  * [brltty](https://github.com/brltty/brltty/tree/master/Initramfs/Dracut)
  * [fai](https://github.com/faiproject/fai/tree/master/lib/dracut/80fai-autodiscover)
