@@ -69,8 +69,9 @@
  * [Gentoo](https://github.com/gentoo/gentoo/blob/master/sys-kernel/dracut)
  * [Void](https://github.com/void-linux/void-packages/tree/master/srcpkgs/dracut)
  * [Alpine](https://gitlab.alpinelinux.org/alpine/aports/-/tree/master/community/dracut)
- * [Nix](https://github.com/NixOS/nixpkgs/tree/master/pkgs/os-specific/linux/dracut)
  * [CBL-Mariner](https://github.com/microsoft/CBL-Mariner/tree/2.0/SPECS/dracut)
+ * [distri](https://github.com/distr1/distri/tree/master/pkgs/dracut)
+ * [Nix](https://github.com/NixOS/nixpkgs/tree/master/pkgs/os-specific/linux/dracut)
 
 # Projects with out-of-tree dracut modules
  * [brltty](https://github.com/brltty/brltty/tree/master/Initramfs/Dracut)
