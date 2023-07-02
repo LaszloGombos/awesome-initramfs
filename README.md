@@ -117,7 +117,8 @@
  * [dracut on Github](https://github.com/topics/dracut)
  * [dracut-module on Github](https://github.com/topics/dracut-module)
 
-# Other notable projects using dracut (without an out-of-tree dracut modules)
+# Other notable projects using dracut 
+(without an out-of-tree dracut modules)
  * [livecd-tools](https://github.com/livecd-tools/livecd-tools)
  * [lorax](https://github.com/weldr/lorax)
  * [mkosi](https://github.com/systemd/mkosi)
