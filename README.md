@@ -127,7 +127,7 @@
 
 ## How to avoid the need for initramfs
  * build-in kernel modules into the kernel that is needed to mount rootfs (e.g. CONFIG_EXT4_FS=y)
- * set root=/dev/sda1 kernel command line argument (see https://www.kernel.org/doc/html/v6.4/admin-guide/kernel-parameters.html)
+ * set root= kernel command line argument (see https://www.kernel.org/doc/html/v6.4/admin-guide/kernel-parameters.html)
 
 ## Resources
 * [Linux initramfs for fun](https://www.youtube.com/watch?v=KQjRnuwb7is)
