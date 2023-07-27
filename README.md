@@ -94,6 +94,7 @@
  * [anaconda](https://github.com/rhinstaller/anaconda/tree/master/dracut)
  * [transactional-updates](https://github.com/openSUSE/transactional-update)
  * [afterburn](https://github.com/coreos/afterburn/tree/main/dracut/30afterburn)
+ * [bootengine](https://github.com/flatcar/bootengine)
  * [qubes-antievilmaid](https://github.com/QubesOS/qubes-antievilmaid/tree/master/90anti-evil-maid)
  * [dracut-encryptrootfs](https://github.com/Symantec/dracut-encryptrootfs)
  * [Fedora CoreOS](https://github.com/coreos/fedora-coreos-config/tree/testing-devel/overlay.d/05core/usr/lib/dracut/modules.d)
@@ -112,6 +113,7 @@
  * [Cray-HPE/metal-dmk8s](https://github.com/Cray-HPE/dracut-metal-dmk8s/tree/main/93metaldmk8s)
  * [Cray-HPE/metal-mdsquash](https://github.com/Cray-HPE/dracut-metal-mdsquash/tree/main/90metalmdsquash)
  * [AsahiLinux](https://github.com/AsahiLinux/asahi-scripts/tree/main/dracut)
+ * 
  
  # OSS search
  * [dracut on Github](https://github.com/topics/dracut)
