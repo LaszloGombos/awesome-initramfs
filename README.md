@@ -48,6 +48,10 @@
 * [fedora](https://fedoraproject.org/wiki/Dracut)
 * [postmarketos](https://wiki.postmarketos.org/wiki/The_initramfs)
 
+## How to avoid having a need for initramfs
+* build in all kernel modules that needed to mount rootfs
+* use root=/dev/sda (avoid using UUID)
+
 ## Minimal rootfs
 * [micro-rootfs](https://github.com/loicpoulain/micro-rootfs)  - mdev
 
