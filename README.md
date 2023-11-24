@@ -82,6 +82,7 @@
  * [Ubuntu](https://git.launchpad.net/ubuntu/+source/dracut/tree/)
  * [openSUSE](https://github.com/openSUSE/dracut)
  * [Fedora](https://src.fedoraproject.org/rpms/dracut)
+ * [RHEL](https://github.com/redhat-plumbers/dracut-rhel8)
  * [PhotonOS](https://github.com/vmware/photon/tree/master/SPECS/dracut)
 
 # Projects with out-of-tree dracut modules
