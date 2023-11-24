@@ -83,6 +83,8 @@
  * [Arch](https://gitlab.archlinux.org/archlinux/packaging/packages/dracut)
  * [AOSC](https://github.com/AOSC-Dev/aosc-os-abbs/tree/stable/app-admin/dracut)
  * [altlinux](https://github.com/altlinux/specs/tree/sisyphus/d/dracut)
+ * [Debian](https://salsa.debian.org/debian/dracut/)
+ * [Ubuntu](https://git.launchpad.net/ubuntu/+source/dracut/tree/)
 
 # Projects with out-of-tree dracut modules
  * [brltty](https://github.com/brltty/brltty/tree/master/Initramfs/Dracut)
@@ -117,8 +119,7 @@
  * [Cray-HPE/metal-dmk8s](https://github.com/Cray-HPE/dracut-metal-dmk8s/tree/main/93metaldmk8s)
  * [Cray-HPE/metal-mdsquash](https://github.com/Cray-HPE/dracut-metal-mdsquash/tree/main/90metalmdsquash)
  * [AsahiLinux](https://github.com/AsahiLinux/asahi-scripts/tree/main/dracut)
- * 
- 
+   
  # OSS search
  * [dracut on Github](https://github.com/topics/dracut)
  * [dracut-module on Github](https://github.com/topics/dracut-module)
@@ -131,6 +132,7 @@
  * [rear](https://github.com/rear/rear)
  * [calamares](https://github.com/calamares/calamares)
  * [voidvault](https://github.com/atweiden/voidvault)
+ * [grml-debootstrap](https://github.com/grml/grml-debootstrap)
 
 ## How to avoid the need for initramfs
  * build-in kernel modules into the kernel that is needed to mount rootfs (e.g. CONFIG_EXT4_FS=y)
