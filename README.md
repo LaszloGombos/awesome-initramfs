@@ -119,7 +119,7 @@
  * [Cray-HPE/metal-dmk8s](https://github.com/Cray-HPE/dracut-metal-dmk8s/tree/main/93metaldmk8s)
  * [Cray-HPE/metal-mdsquash](https://github.com/Cray-HPE/dracut-metal-mdsquash/tree/main/90metalmdsquash)
  * [AsahiLinux](https://github.com/AsahiLinux/asahi-scripts/tree/main/dracut)
- * [Debian installer](https://github.com/r0b0/debian-installer)
+ * [Debian installer](https://github.com/r0b0/debian-installer/tree/master/installer-files/usr/lib/dracut/modules.d/90overlay-generic)
    
  # OSS search
  * [dracut on Github](https://github.com/topics/dracut)
