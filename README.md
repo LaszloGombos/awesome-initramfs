@@ -120,6 +120,7 @@
  * [Cray-HPE/metal-mdsquash](https://github.com/Cray-HPE/dracut-metal-mdsquash/tree/main/90metalmdsquash)
  * [AsahiLinux](https://github.com/AsahiLinux/asahi-scripts/tree/main/dracut)
  * [Debian installer](https://github.com/r0b0/debian-installer/tree/master/installer-files/usr/lib/dracut/modules.d/90overlay-generic)
+ * [FIDO Device Onboard (FDO)](https://github.com/fdo-rs/fido-device-onboard-rs/tree/main/dracut/52fdo)
    
  # OSS search
  * [dracut on Github](https://github.com/topics/dracut)
