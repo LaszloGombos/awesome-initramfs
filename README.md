@@ -18,7 +18,7 @@
 * [booster](https://github.com/anatol/booster) - Golang
 * [genkernel](https://gitweb.gentoo.org/proj/genkernel.git) - Gentoo
 * [u-root](https://github.com/u-root/u-root) - Golang
-* [mkosi-initrd](https://github.com/systemd/mkosi-initrd) - use system packages
+* [mkosi](https://github.com/systemd/mkosi) - use system packages
 * [gen_initramfs](https://github.com/torvalds/linux/blob/master/usr/gen_initramfs.sh)
 * [better-initramfs](https://github.com/slashbeast/better-initramfs) - Bash shell, busybox
 * [tiny-initramfs](https://github.com/chris-se/tiny-initramfs) - C, works great
@@ -107,7 +107,6 @@
  * [dracut-iguana](https://github.com/aaannz/dracut-iguana)
  * [mkinitcpio-ykfde](https://github.com/eworm-de/mkinitcpio-ykfde/tree/master/dracut)
  * [dracut-ntfsloop](https://github.com/genosse-einhorn/dracut-ntfsloop)
- * [constellation](https://github.com/edgelesssys/constellation/tree/main/image/mkosi.skeleton/usr/lib/dracut/modules.d)
  * [iguana](https://github.com/openSUSE/iguana/tree/main/dracut-iguana)
  * [kairos-io](https://github.com/kairos-io/packages/tree/main/packages/system/dracut/immutable-rootfs/30cos-immutable-rootfs)
  * [immucore](https://github.com/kairos-io/immucore)
@@ -131,7 +130,6 @@
 (without an out-of-tree dracut modules)
  * [livecd-tools](https://github.com/livecd-tools/livecd-tools)
  * [lorax](https://github.com/weldr/lorax)
- * [mkosi](https://github.com/systemd/mkosi)
  * [rear](https://github.com/rear/rear)
  * [calamares](https://github.com/calamares/calamares)
  * [voidvault](https://github.com/atweiden/voidvault)
