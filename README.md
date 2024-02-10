@@ -1,5 +1,16 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+
+Usual flow
+```
+fw -> bootloader -> kernel -> initramfs -> rootfs
+```
+
+In its simplest form
+```
+fw -> kernel (with initramfs included)
+```
+
 > A curated list of awesome initramfs resources.
 
 ## Contents
