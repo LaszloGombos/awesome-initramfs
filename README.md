@@ -26,16 +26,16 @@ fw -> kernel -> rootfs
 - [Resources](#resources)
 
 ## Projects
-* [dracut](https://github.com/dracutdevs/dracut) - Fedora, Debian, Arch, Alpine
-* [mkinitcpio](https://github.com/archlinux/mkinitcpio) - Arch
-* [initramfs-tools](https://salsa.debian.org/kernel-team/initramfs-tools) - Debian
-* [make-initrd](https://github.com/osboot/make-initrd) - AltLinux
-* [mkinitfs](https://gitlab.alpinelinux.org/alpine/mkinitfs/) - Alpine
+* [dracut](https://github.com/dracutdevs/dracut) - default on Fedora, OpenSUSE, Gentoo, Void
+* [mkinitcpio](https://github.com/archlinux/mkinitcpio) - default on Arch
+* [initramfs-tools](https://salsa.debian.org/kernel-team/initramfs-tools) - default on Debian
+* [make-initrd](https://github.com/osboot/make-initrd) - default on AltLinux
+* [mkinitfs](https://gitlab.alpinelinux.org/alpine/mkinitfs/) - default on Alpine
 * [Minimal Builder Using Terse Options](https://mbuto.sh/mbuto) - Host-agnostic initramfs image builder for lightweight virtual machines
 * [booster](https://github.com/anatol/booster) - Golang
 * [genkernel](https://gitweb.gentoo.org/proj/genkernel.git) - Gentoo
 * [u-root](https://github.com/u-root/u-root) - Golang
-* [mkosi](https://github.com/systemd/mkosi) - use system packages
+* [mkosi](https://github.com/systemd/mkosi/tree/main/mkosi/resources/mkosi-initrd) - use system packages (not just individual files)
 * [gen_initramfs](https://github.com/torvalds/linux/blob/master/usr/gen_initramfs.sh)
 * [better-initramfs](https://github.com/slashbeast/better-initramfs) - Bash shell, busybox
 * [tiny-initramfs](https://github.com/chris-se/tiny-initramfs) - C, works great
