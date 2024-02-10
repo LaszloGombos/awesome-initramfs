@@ -45,7 +45,7 @@ fw -> kernel -> rootfs
 * [jamdisk](https://github.com/cbdevnet/jamdisk)
 * [micro-rootfs](https://github.com/loicpoulain/micro-rootfs) - buildroot
 * [tinycorelinux](https://github.com/tinycorelinux/Core-scripts/blob/master/init) - initramfs distro (no switch_root)
-* [mkroot/toybox](https://github.com/landley/toybox/blob/master/scripts/mkroot.sh) - minimal initramfs distro
+* [mkroot/toybox](https://github.com/landley/toybox/blob/master/mkroot/mkroot.sh) - minimal initramfs distro
 * [cloud-initramfs-tools](https://launchpad.net/cloud-initramfs-tools/) - initramfs-tools extra modules
 * [mxlinux](https://github.com/MX-Linux/build-iso-mx/tree/master/Template/COMMON/initrd) - MX Linux
 * [linux-live](https://github.com/Tomas-M/linux-live)
