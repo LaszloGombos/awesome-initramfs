@@ -6,10 +6,16 @@ Usual flow
 fw -> bootloader -> kernel -> initramfs -> rootfs
 ```
 
-In its simplest form
+In its simplest form (no separate initramfs, init included in the kernel)
 ```
-fw -> kernel (with initramfs included)
+fw -> kernel (init included)
 ```
+
+No initramfs, separate rootfs
+```
+fw -> kernel -> rootfs 
+```
+
 
 > A curated list of awesome initramfs resources.
 
@@ -62,6 +68,9 @@ fw -> kernel (with initramfs included)
 ## How to avoid having a need for initramfs
 * build-in all kernel modules that needed to mount rootfs
 * use root=/dev/sda (avoid using UUID)
+
+## Build initramfs into the kernel
+* [CONFIG_INITRAMFS_SOURCE](https://www.kernelconfig.io/CONFIG_INITRAMFS_SOURCE)
 
 ## Minimal rootfs
 * [micro-rootfs](https://github.com/loicpoulain/micro-rootfs)  - mdev
