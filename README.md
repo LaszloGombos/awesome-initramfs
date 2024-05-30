@@ -26,7 +26,7 @@ fw -> kernel -> rootfs
 - [Resources](#resources)
 
 ## Projects
-* [dracut](https://github.com/dracutdevs/dracut) - default on Fedora, OpenSUSE, Gentoo, Void
+* [dracut](https://github.com/dracut-ng/dracut-ng) - default on Fedora, OpenSUSE, Gentoo, Void
 * [mkinitcpio](https://github.com/archlinux/mkinitcpio) - default on Arch
 * [initramfs-tools](https://salsa.debian.org/kernel-team/initramfs-tools) - default on Debian
 * [make-initrd](https://github.com/osboot/make-initrd) - default on AltLinux
