@@ -100,6 +100,7 @@ fw -> kernel -> rootfs
  * [altlinux](https://github.com/altlinux/specs/tree/sisyphus/d/dracut)
  * [Debian](https://salsa.debian.org/debian/dracut/)
  * [Ubuntu](https://git.launchpad.net/ubuntu/+source/dracut/tree/)
+ * [freedesktop-sdk](https://gitlab.com/freedesktop-sdk/freedesktop-sdk/-/tree/master/patches/dracut)
  * [openSUSE](https://github.com/openSUSE/dracut)
  * [Fedora](https://src.fedoraproject.org/rpms/dracut)
  * [Fedora](https://github.com/redhat-plumbers/dracut-fedora)
