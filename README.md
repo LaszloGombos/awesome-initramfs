@@ -88,7 +88,7 @@ fw -> kernel -> rootfs
  * [Gentoo](https://github.com/gentoo/gentoo/blob/master/sys-kernel/dracut)
  * [Void](https://github.com/void-linux/void-packages/tree/master/srcpkgs/dracut)
  * [Alpine](https://gitlab.alpinelinux.org/alpine/aports/-/tree/master/community/dracut)
- * [CBL-Mariner](https://github.com/microsoft/CBL-Mariner/tree/2.0/SPECS/dracut)
+ * [azurelinux](https://github.com/microsoft/azurelinux/tree/2.0/SPECS/dracut)
  * [distri](https://github.com/distr1/distri/tree/master/pkgs/dracut)
  * [Nix](https://github.com/NixOS/nixpkgs/tree/master/pkgs/os-specific/linux/dracut)
  * [Solus](https://dev.getsol.us/source/dracut/)
