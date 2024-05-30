@@ -91,7 +91,7 @@ fw -> kernel -> rootfs
  * [azurelinux](https://github.com/microsoft/azurelinux/tree/2.0/SPECS/dracut)
  * [distri](https://github.com/distr1/distri/tree/master/pkgs/dracut)
  * [Nix](https://github.com/NixOS/nixpkgs/tree/master/pkgs/os-specific/linux/dracut)
- * [Solus](https://dev.getsol.us/source/dracut/)
+ * [Solus](https://github.com/getsolus/packages/tree/main/packages/d/dracut)
  * [Slack](https://git.slackbuilds.org/slackbuilds/tree/system/dracut)
  * [pld](https://git.pld-linux.org/?p=packages/dracut.git;a=tree)
  * [OpenMandriva](https://github.com/OpenMandrivaAssociation/dracut)
