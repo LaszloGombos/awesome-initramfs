@@ -87,7 +87,6 @@ fw -> kernel -> rootfs
 # Notable Dracut packages/patches/forks
  * [Gentoo](https://github.com/gentoo/gentoo/blob/master/sys-kernel/dracut)
  * [Void](https://github.com/void-linux/void-packages/tree/master/srcpkgs/dracut)
- * [Alpine](https://gitlab.alpinelinux.org/alpine/aports/-/tree/master/community/dracut)
  * [azurelinux](https://github.com/microsoft/azurelinux/tree/2.0/SPECS/dracut)
  * [distri](https://github.com/distr1/distri/tree/master/pkgs/dracut)
  * [Nix](https://github.com/NixOS/nixpkgs/tree/master/pkgs/os-specific/linux/dracut)
@@ -95,8 +94,6 @@ fw -> kernel -> rootfs
  * [Slack](https://git.slackbuilds.org/slackbuilds/tree/system/dracut)
  * [pld](https://git.pld-linux.org/?p=packages/dracut.git;a=tree)
  * [OpenMandriva](https://github.com/OpenMandrivaAssociation/dracut)
- * [Arch](https://gitlab.archlinux.org/archlinux/packaging/packages/dracut)
- * [AOSC](https://github.com/AOSC-Dev/aosc-os-abbs/tree/stable/app-admin/dracut)
  * [altlinux](https://github.com/altlinux/specs/tree/sisyphus/d/dracut)
  * [Debian](https://salsa.debian.org/debian/dracut/)
  * [Ubuntu](https://git.launchpad.net/ubuntu/+source/dracut/tree/)
@@ -111,6 +108,11 @@ fw -> kernel -> rootfs
  * [artixlinux](https://gitea.artixlinux.org/packages/dracut)
  * [buildroot](https://gitlab.com/buildroot.org/buildroot/-/tree/master/package/dracut)
  * [t2sde](https://github.com/rxrbln/t2sde/tree/main/package/contrib/dracut)
+ * [adelielinux](https://git.adelielinux.org/adelie/packages/-/tree/current/user/dracut)
+ * [alpine](https://gitlab.alpinelinux.org/alpine/aports/-/tree/master/community/dracut)
+ * [altlinux](https://git.altlinux.org/gears/d/dracut.git)
+ * [arch](https://gitlab.archlinux.org/archlinux/packaging/packages/dracut)
+ * [AOSC](https://github.com/AOSC-Dev/aosc-os-abbs/tree/stable/app-admin/dracut)
 
 # Projects with out-of-tree dracut modules
  * [brltty](https://github.com/brltty/brltty/tree/master/Initramfs/Dracut)
