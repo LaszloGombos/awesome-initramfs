@@ -106,6 +106,11 @@ fw -> kernel -> rootfs
  * [Fedora](https://github.com/redhat-plumbers/dracut-fedora)
  * [RHEL](https://github.com/redhat-plumbers/dracut-rhel8)
  * [PhotonOS](https://github.com/vmware/photon/tree/master/SPECS/dracut)
+ * [openembedded](https://git.openembedded.org/meta-openembedded/tree/meta-initramfs/recipes-devtools/dracut)
+ * [ROSA Linux](https://abf.io/import/dracut)
+ * [artixlinux](https://gitea.artixlinux.org/packages/dracut)
+ * [buildroot](https://gitlab.com/buildroot.org/buildroot/-/tree/master/package/dracut)
+ * [t2sde](https://github.com/rxrbln/t2sde/tree/main/package/contrib/dracut)
 
 # Projects with out-of-tree dracut modules
  * [brltty](https://github.com/brltty/brltty/tree/master/Initramfs/Dracut)
