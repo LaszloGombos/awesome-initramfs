@@ -105,6 +105,7 @@ fw -> kernel -> rootfs
  * [Fedora](https://github.com/redhat-plumbers/dracut-fedora)
  * [freedesktop-sdk](https://gitlab.com/freedesktop-sdk/freedesktop-sdk/-/tree/master/patches/dracut)
  * [gentoo](https://github.com/gentoo/gentoo/blob/master/sys-kernel/dracut)
+ * [gobolinux](https://github.com/gobolinux/Recipes/tree/master/Dracut)
  * [openembedded](https://git.openembedded.org/meta-openembedded/tree/meta-initramfs/recipes-devtools/dracut)
  * [OpenMandriva](https://github.com/OpenMandrivaAssociation/dracut)
  * [openSUSE](https://github.com/openSUSE/dracut-ng)
