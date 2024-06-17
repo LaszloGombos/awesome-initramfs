@@ -41,7 +41,6 @@ fw -> kernel -> rootfs
 * [tiny-initramfs](https://github.com/chris-se/tiny-initramfs) - C, works great
 * [tinyramfs](https://github.com/illiliti/tinyramfs) - POSIX shell
 * [clr-init](https://github.com/clearlinux/clr-init) - Clear Linux
-* [core-initrd](https://github.com/snapcore/core-initrd) - Ubuntu Core Linux
 * [jamdisk](https://github.com/cbdevnet/jamdisk)
 * [micro-rootfs](https://github.com/loicpoulain/micro-rootfs) - buildroot
 * [tinycorelinux](https://github.com/tinycorelinux/Core-scripts/blob/master/init) - initramfs distro (no switch_root)
@@ -164,6 +163,7 @@ fw -> kernel -> rootfs
  * [calamares](https://github.com/calamares/calamares)
  * [voidvault](https://github.com/atweiden/voidvault)
  * [grml-debootstrap](https://github.com/grml/grml-debootstrap)
+ * [core-initrd](https://github.com/snapcore/core-initrd) - Ubuntu Core Linux
 
 ## How to avoid the need for initramfs
  * build-in kernel modules into the kernel that is needed to mount rootfs (e.g. CONFIG_EXT4_FS=y)
