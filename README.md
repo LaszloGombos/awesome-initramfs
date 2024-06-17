@@ -98,6 +98,7 @@ fw -> kernel -> rootfs
  * [azurelinux](https://github.com/microsoft/azurelinux/tree/2.0/SPECS/dracut)
  * [azurelinux-3](https://github.com/microsoft/azurelinux/tree/3.0/SPECS/dracut)
  * [buildroot](https://gitlab.com/buildroot.org/buildroot/-/tree/master/package/dracut)
+ * [buildroot](https://git.busybox.net/buildroot/tree/package/dracut)
  * [debian](https://salsa.debian.org/debian/dracut/)
  * [crux](https://crux.nu/ports/opt/3.8/dracut/)
  * [distri](https://github.com/distr1/distri/tree/master/pkgs/dracut)
