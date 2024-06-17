@@ -107,6 +107,7 @@ fw -> kernel -> rootfs
  * [gentoo](https://github.com/gentoo/gentoo/blob/master/sys-kernel/dracut)
  * [gobolinux](https://github.com/gobolinux/Recipes/tree/master/Dracut)
  * [openembedded](https://git.openembedded.org/meta-openembedded/tree/meta-initramfs/recipes-devtools/dracut)
+ * [openeuler](https://gitee.com/src-openeuler/dracut)
  * [OpenMandriva](https://github.com/OpenMandrivaAssociation/dracut)
  * [openSUSE](https://github.com/openSUSE/dracut-ng)
  * [PhotonOS](https://github.com/vmware/photon/tree/master/SPECS/dracut)
