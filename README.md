@@ -115,6 +115,7 @@ fw -> kernel -> rootfs
  * [ROSA Linux](https://abf.io/import/dracut)
  * [Slack](https://git.slackbuilds.org/slackbuilds/tree/system/dracut)
  * [Solus](https://github.com/getsolus/packages/tree/main/packages/d/dracut)
+ * [spack](https://github.com/spack/spack/blob/develop/var/spack/repos/builtin/packages/dracut/package.py)
  * [Void](https://github.com/void-linux/void-packages/tree/master/srcpkgs/dracut)
 
 # Projects with out-of-tree dracut modules
