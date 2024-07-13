@@ -90,7 +90,7 @@ fw -> kernel -> rootfs
  * [aosc](https://github.com/AOSC-Dev/aosc-os-abbs/tree/stable/app-admin/dracut)
  * [arch](https://gitlab.archlinux.org/archlinux/packaging/packages/dracut)
  * [artixlinux](https://gitea.artixlinux.org/packages/dracut)
- * [azurelinux-3](https://github.com/microsoft/azurelinux/tree/3.0/SPECS/dracut)
+ * [azurelinux-dev](https://github.com/microsoft/azurelinux/tree/3.0-dev/SPECS/dracut)
  * [azurelinux](https://github.com/microsoft/azurelinux/tree/2.0/SPECS/dracut)
  * [buildroot](https://git.busybox.net/buildroot/tree/package/dracut)
  * [buildroot](https://gitlab.com/buildroot.org/buildroot/-/tree/master/package/dracut)
