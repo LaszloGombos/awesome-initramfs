@@ -164,12 +164,10 @@ fw -> kernel -> rootfs
 (without an out-of-tree dracut modules)
  * [livecd-tools](https://github.com/livecd-tools/livecd-tools)
  * [lorax](https://github.com/weldr/lorax)
- * [rear](https://github.com/rear/rear)
  * [calamares](https://github.com/calamares/calamares)
  * [voidvault](https://github.com/atweiden/voidvault)
  * [grml-debootstrap](https://github.com/grml/grml-debootstrap)
  * [core-initrd](https://github.com/snapcore/core-initrd) - Ubuntu Core Linux
- * [Open-CAS](https://github.com/Open-CAS/open-cas-linux)
 
 ## How to avoid the need for initramfs
  * build-in kernel modules into the kernel that is needed to mount rootfs (e.g. CONFIG_EXT4_FS=y)
